@@ -1,0 +1,15 @@
+{
+  "name": "gityear",
+  "version": "1.0.4",
+  "description": "Generate random git commits over a year for contribution graph",
+  "main": "index.js",
+  "bin": {
+    "gityear": "./index.js"
+  },
+  "author": "mukhtaralam8055",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^3.19.0",
+    "moment": "^2.29.4"
+  }
+}
